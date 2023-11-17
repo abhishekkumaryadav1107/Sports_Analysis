@@ -1,6 +1,4 @@
-# Sports_Analysis
-
-Capstone Project
+# Sports_Analysis(CAPSTONE)
 
 The objective of this analysis is to gain valuable insights into the historical data of the Olympic Games by exploring various dimensions, including games, sports, events, participants, medals, and regional representation. The scope encompasses data from multiple editions of the Olympics, aiming to identify trends, patterns, and significant insights from different aspects of the Games. The primary goal is to provide a detailed overview of the Olympics' history and evolution, and the analysis will generate recommendations to enhance future Olympics' organization, sports selection, and representation of diverse regions. The final deliverable will be a comprehensive report and presentation showcasing the findings and historical significance of the Olympic Games.
 
